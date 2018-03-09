@@ -1,0 +1,8 @@
+this script will allows you to track the ip address
+Note: pygeoip need to be installed on your computer
+to run the script just type this command:
+  python ipTracker.py 'xxx.xxx.xxx.xxx'
+replace the xxx.xxx.xxx.xxx with the ip that you wanna tack
+and it will display all the informations that you need
+Note: this is a basic tracker so it's not gonna give you
+      a lot of inforamtions all the times
